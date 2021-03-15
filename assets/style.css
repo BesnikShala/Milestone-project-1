@@ -14,11 +14,8 @@ html, body {
     background-position: center 75%;
 }
 
-.navbar-brand img {
-    position: absolute;
-    top: -50px;
-   
-}
+/* <------- Navbar --------> */
+
 
 .bg-img {
     background-image: url("https://images.unsplash.com/photo-1597404294360-feeeda04612e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80");
@@ -26,15 +23,13 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    z-index: 3;
 }
 
-.navbarNav {
-    background-color: grey;
-}
+
 
 .navbar {
-    background-color: grey;
-    height: 100px;
+    background-color:rgba(0, 48, 73, 0.9)
 }
 
 .navbar-nav {
@@ -47,23 +42,21 @@ html, body {
     padding-right: 50px;
     font-size: large;
 }
+ 
 
-.logo {
-    width: 250px;
-    height: 250px;
-    position: relative;
-    bottom: 10px;
-}
 
+/* <-------- About Us ------> */
 .about-us {
     padding-top: 50px;
     margin-top: 100px;
 
 }
 
+/*<------ Footer -------> */
+
 footer {
     max-height: 500px;
-    background-color:#555555;
+    background-color:rgba(0, 48, 73, 0.9);
     overflow: hidden;
    
 }
@@ -84,3 +77,4 @@ i {
 .footer {
     color: #fff;
 }
+
