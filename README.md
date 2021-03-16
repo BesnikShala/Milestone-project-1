@@ -2,8 +2,8 @@
 
 # Prestige Automotive | Milestone Project 1
 
-The website aims to target car enthusiasts and owners who are looking to modify or better their precious vehicle. The website aims to provide three main services which target the look 
-and performance via a car wrapping service which consists of a material which is used to wrap over the car panels to change the colour and texture of the car. The second service consists
+ The website aims to target car enthusiasts and owners who are looking to modify or better their precious vehicle. The website aims to provide three main services which target the look 
+ and performance via a car wrapping service which consists of a material which is used to wrap over the car panels to change the colour and texture of the car. The second service consists
  of detailing which is a very focused form of cleaning the car both internally and externally. The third service is boost to the engines power, this is basically a computer chip which is coded
  specifically to the engine of the car to increasse the power output. The website will have a gallary and videos to showcase the services and also provide a form of contact to make enquiries. 
  The key aim is to attract more business by providing a showcase of services and also offering a method of enquiry which may be more convenient to clients via a form. 
@@ -50,6 +50,8 @@ have the ability to use the navbar.
 - The brand image/name has a link to the home page so users can eaily return to the main page of the website at any moment. 
 
 - The footer contains information about the business but also links to social media accoounts, this is on all pages so users can follow on social media. 
+
+- The navigation bar has clear and indicative sign of which page you are currently on. Screen readers will also know which page they are currently on. 
 
 ## Features Left to Implement
 - The site will include a carousel of images for the services to browse through each one and view the service images.

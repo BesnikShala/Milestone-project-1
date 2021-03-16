@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
 
 html, body {
-    font-size: 15px;
-    font-weight: 400;
+    font-size: 16px;
+    font-weight: 500;
     font-family: 'Roboto';
-
+    line-height: 1.5;
+    box-sizing: border-box;
 }
 
 .header {
@@ -23,7 +24,12 @@ html, body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    z-index: 3;
+   
+}
+
+.navbar-brand img {
+    position: relative;
+   
 }
 
 
@@ -32,25 +38,58 @@ html, body {
     background-color:rgba(0, 48, 73, 0.9)
 }
 
+
 .navbar-nav {
     margin: 0 auto;
-    color: black;
+    
 }
 
-.nav-item {
+.nav-item, .nav-link {
     align-items: stretch;
     padding-right: 50px;
     font-size: large;
 }
- 
 
+.navbar-nav, .nav-link {
+    color: #fff;
+}
+
+.active {
+    color: yellow;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(207, 52, 13, 0.986);
+}
 
 /* <-------- About Us ------> */
 .about-us {
-    padding-top: 50px;
-    margin-top: 100px;
-
+    margin-right: 20px;
+    
 }
+
+.card {
+    margin-bottom: 30px;
+    
+}
+
+.about {
+    margin: 10px 20px;
+}
+
+.card {
+    height: 550px;
+}
+
+ img.card-img-top {
+    width: 314px;
+    position: relative;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    padding: 0;
+}  
+
+
 
 /*<------ Footer -------> */
 
@@ -59,10 +98,6 @@ footer {
     background-color:rgba(0, 48, 73, 0.9);
     overflow: hidden;
    
-}
-
-i {
-    font-size: large;
 }
 
 .icons {
@@ -77,4 +112,25 @@ i {
 .footer {
     color: #fff;
 }
+
+.follow {
+    padding-bottom: 15px;
+    
+    
+}
+
+li {
+    margin-top: 20px;
+}
+
+.follow li a i {
+    font-size: 25px;
+    transition: all 0.5s ease-in-out;
+}
+
+.follow li a i:hover {
+    color: white;
+
+}
+
 
