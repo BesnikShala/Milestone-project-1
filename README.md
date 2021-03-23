@@ -53,9 +53,13 @@ have the ability to use the navbar.
 
 - The navigation bar has clear and indicative sign of which page you are currently on. Screen readers will also know which page they are currently on. 
 
-## Features Left to Implement
 - The site will include a carousel of images for the services to browse through each one and view the service images.
+
+
+## Features Left to Implement
+
 -The site will include a form which is designed to make enquiries on price or even ask a question. 
+
 -The site will also include a full gallary page where previous work can be viewed. 
 
 ## Technologies Used
@@ -65,47 +69,35 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
+- [Bootstrap](https://getbootstrap.com/)
+    - Bootstrap was included in the website to provide a good structure and quick start to the website. I found it useful to get the shell of the documentation but ultimately styled it my own way. 
+
+- [Hover.css](http://ianlunn.github.io/Hover/)
+    - I came accross Hover.css in a previous module and I included this because you have the ablity to view each effect before you use it. The application is very quick and easy and the results are great. (Credit Ian Lunn)
+
+-[Google Fonts](https://fonts.google.com/)
+    - I chose to use Google Fonts for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 
+
+-[Font Awesome](https://fontawesome.com/)
+    - I came accross this also the previous modules istructed by senior product developer Matt Rudge. I included it in my website as the icons are very simple and easy to see, the code is also very easy to implement and style.
+
 
 # Testing
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 
 # Credits
 
 ## Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+
 
 ## Media
-- The photos used in this site were obtained from ...
+- The photos used in this site were obtained from freepik.com (credit photographer @Prostooleh)
 
 ## Acknowledgements
 
-- I received inspiration for this project from X
+
