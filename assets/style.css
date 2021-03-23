@@ -178,6 +178,24 @@ img {
     bottom: 50px;
     
 }
+
+/* -------Contact--------- */
+
+form {
+    padding: 40px;
+}
+
+.form-floating {
+  height: calc(3.5rem + 2px);
+  padding: 1rem 0.75rem;
+}
+
+label {
+    transition-property: top, left;
+    transition-duration: 0.3s;
+    visibility: visible;
+}
+
    
 /*<------ Footer -------> */
 
