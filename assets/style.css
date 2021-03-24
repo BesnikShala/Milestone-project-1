@@ -9,8 +9,6 @@ html, body {
     box-sizing: border-box;
 }
 
-
-
 /* <------- Navbar --------> */
 
 
@@ -183,6 +181,18 @@ img {
 
 form {
     padding: 40px;
+    margin: 0 auto;
+    overflow: hidden;
+    max-width: 1300px;
+    justify-content: center;
+}
+
+body > form {
+    margin-right: 0px !important;
+}
+
+form input {
+    margin-right: 0px;
 }
 
 .form-floating {
@@ -198,12 +208,30 @@ label {
 
 .send-button {
     background-color: rgba(184, 4, 4, 0.5);
+    font-size: 20px;
+    height: 50px;
+    width: 100px;
 }
 
 .send-button:hover {
     color: #fff;
     background-color: rgba(0, 48, 73, 0.9);
     transition: ease-in-out 0.5s;
+}
+
+iframe {
+    border-radius: 10%;
+    border: 2px solid black;
+    overflow: hidden;
+}
+
+
+
+
+.contact a i {
+    font-size: 35px;
+    position: relative;
+    bottom: 20px;
 }
 
 /*<------ Footer -------> */
