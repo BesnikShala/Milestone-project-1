@@ -96,6 +96,9 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 
 ## Media
+
+[Freepik](https://www.freepik.com/)
+
 - The photos used in this site were obtained from freepik.com (credit photographer @Prostooleh)
 
 ## Acknowledgements
