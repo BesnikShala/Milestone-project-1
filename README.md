@@ -5,7 +5,7 @@
  The website aims to target car enthusiasts and owners who are looking to modify or better their precious vehicle. The website aims to provide three main services which target the look 
  and performance via a car wrapping service which consists of a material which is used to wrap over the car panels to change the colour and texture of the car. The second service consists
  of detailing which is a very focused form of cleaning the car both internally and externally. The third service is boost to the engines power, this is basically a computer chip which is coded
- specifically to the engine of the car to increasse the power output. The website will have a gallary and videos to showcase the services and also provide a form of contact to make enquiries. 
+ specifically to the engine of the car to increasse the power output. The website will have a gallery to showcase the services and also provide a form of contact to make enquiries. 
  The key aim is to attract more business by providing a showcase of services and also offering a method of enquiry which may be more convenient to clients via a form. 
 
  
@@ -13,7 +13,7 @@
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-	First Time Visitor Goals.
+            First Time Visitor Goals.
 
 -	As a first-time visitor to the website. I want to understand the Website and what it offers. 
 -	I would like to be able to navigate clearly through the website to find exactly what I am looking for. 
@@ -23,7 +23,8 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want to know if there are any first-time buyer offers available.
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight. 
 
-Returning Visitor Goals.
+
+        Returning Visitor Goals.
 
 -	I want to know if any new products or services have been added.
 -	I would like to see if the gallery has been updated with the latest projects/work.
@@ -31,7 +32,10 @@ Returning Visitor Goals.
 -	I want to know if I can get in contact to proceed with a quotation/service. 
 -	As a car enthusiast I want to know what the best service is to maintain or modify my car.
 
-Site Owners Goals.
+
+
+    
+        Site Owners Goals.
 
 -	As the owner I want site visitors to be able to freely and comfortably navigate through the website and clearly find what they are looking for.
 -	I want the visitors to be able to reach out and ask for more information in any page via the form available for a quotation/more information.
@@ -55,12 +59,13 @@ have the ability to use the navbar.
 
 - The site will include a carousel of images for the services to browse through each one and view the service images.
 
+- The site will include a form which is designed to make enquiries on price or even ask a question. 
+
+- The site will also include a full gallary page where previous work can be viewed. 
 
 ## Features Left to Implement
 
--The site will include a form which is designed to make enquiries on price or even ask a question. 
-
--The site will also include a full gallary page where previous work can be viewed. 
+- A modal will be implemented in the gallary to allow users to enlarge the images and also view text information for that image.
 
 ## Technologies Used
 
@@ -75,10 +80,10 @@ In this section, you should mention all of the languages, frameworks, libraries,
 - [Hover.css](http://ianlunn.github.io/Hover/)
     - I came accross Hover.css in a previous module and I included this because you have the ablity to view each effect before you use it. The application is very quick and easy and the results are great. (Credit Ian Lunn)
 
--[Google Fonts](https://fonts.google.com/)
+- [Google Fonts](https://fonts.google.com/)
     - I chose to use Google Fonts for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 
 
--[Font Awesome](https://fontawesome.com/)
+- [Font Awesome](https://fontawesome.com/)
     - I came accross this also the previous modules istructed by senior product developer Matt Rudge. I included it in my website as the icons are very simple and easy to see, the code is also very easy to implement and style.
 
 
@@ -100,6 +105,10 @@ In this section, you should mention all of the languages, frameworks, libraries,
 [Freepik](https://www.freepik.com/)
 
 - The photos used in this site were obtained from freepik.com (credit photographer @Prostooleh)
+
+[Pexels](https://www.pexels.com/)
+
+- Gallery images used in this site were obtained from pexels.com. 
 
 ## Acknowledgements
 
