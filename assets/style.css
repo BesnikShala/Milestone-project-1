@@ -31,7 +31,11 @@ img {
 
 
 .navbar {
-    background-color:rgba(0, 48, 73, 0.9)
+    background-color:rgba(0, 48, 73, 0.9);
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    z-index: 99;
 }
 
 
@@ -78,7 +82,7 @@ img {
 }
 
 .active {
-    color: yellow;
+    color: rgba(207, 52, 13, 0.986)
 }
 
 .navbar-nav .nav-link:hover {
@@ -111,7 +115,7 @@ img {
     margin: 0 auto;
     padding: 0;
 }  
-
+x
 /* <-------Service One---------> */
 
 .carousel-inner img {
@@ -181,10 +185,10 @@ img {
 
 form {
     padding: 40px;
-    margin: 0 auto;
     overflow: hidden;
     max-width: 1300px;
     justify-content: center;
+    margin-left: 50px;
 }
 
 body > form {
@@ -223,6 +227,7 @@ iframe {
     border-radius: 10%;
     border: 2px solid black;
     overflow: hidden;
+    margin-bottom: 10px;
 }
 
 
