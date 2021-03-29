@@ -130,18 +130,19 @@ x
     position: unset;
     z-index: -1;
 }
+
+.carousel-one {
+    position: relative;
+    bottom: 50px;
+    right: 50px;
+}
+
 .list {
     height: 200px;
 }
 
 .car-wrap li {
     list-style: none;
-}
-
-.carousel-one {
-    position: relative;
-    bottom: 50px;
-    right: 50px;
 }
 
 .slide-caption {
@@ -180,6 +181,21 @@ x
     bottom: 50px;
     
 }
+
+/* -------Gallery--------- */
+
+
+.gallery-images img {
+    height: 160px;
+    width: 440x;
+    padding: 5px 8px;
+    margin: 2px;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
 
 /* -------Contact--------- */
 
@@ -229,9 +245,6 @@ iframe {
     overflow: hidden;
     margin-bottom: 10px;
 }
-
-
-
 
 .contact a i {
     font-size: 35px;
