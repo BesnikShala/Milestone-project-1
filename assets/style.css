@@ -9,7 +9,7 @@ html, body {
     box-sizing: border-box;
 }
 
-/* <------- Navbar --------> */
+/* ------- Navbar -------- */
 
 
 .bg-img {
@@ -89,7 +89,7 @@ img {
     color: rgba(207, 52, 13, 0.986);
 }
 
-/* <-------- About Us ------> */
+/* -------- About Us ------ */
 .about-us {
     margin-right: 20px;
     
@@ -105,18 +105,71 @@ img {
 }
 
 .card {
-    height: 550px;
+    height: 500px;
+    background-color: rgba(0, 48, 73, 0.6);
 }
 
- img.card-img-top {
-    width: 314px;
+p.card-text {
+    color: #fff;
+    font-weight: 300;
+}
+
+img.card-img-top {
+    width: 250px;
     position: relative;
     background-repeat: no-repeat;
     margin: 0 auto;
     padding: 0;
-}  
-x
-/* <-------Service One---------> */
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 3px solid darkgray;
+}
+
+.card-body p i {
+    font-size: 40px;
+    color: #fff;
+}
+
+.card-body h5 {
+    color: #fff;
+}
+
+#jack-quote {
+    animation: quote;
+    animation-duration: 2.5s;
+    animation-fill-mode: backwards;
+}
+
+@keyframes quote {
+    0%   {left: -1200px}
+    100% {left: 0px}
+}
+
+#lara-quote {
+    animation: quote-2;
+    animation-duration: 2.5s;
+    animation-fill-mode: backwards;
+}
+
+@keyframes quote-2 {
+    0%   {bottom: -800px}
+    100% {bottom: 0px}
+}
+
+#james-quote {
+    animation: quote-3;
+    animation-duration: 2.5s;
+}
+
+@keyframes quote-3 {
+    0%   {right: -800px}
+    100% {right: 0px}
+}
+
+
+
+
+/* -------Service One--------- */
 
 .carousel-inner img {
     height: 400px;
@@ -166,7 +219,7 @@ x
     z-index: 5;
 }
 
-/* <-------Service Two---------> */
+/* -------Service Two--------- */
 
 .detail-caption {
     height: 220px;
@@ -256,7 +309,7 @@ iframe {
     bottom: 20px;
 }
 
-/*<------ Footer -------> */
+/* ------ Footer ------ */
 
 footer {
     max-height: 700px;
