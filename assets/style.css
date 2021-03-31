@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500&family=Ubuntu:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
 
 
 html, body {
     font-size: 16px;
     font-weight: 500;
-    font-family: 'Roboto';
+    font-family: "Lato", sans-serif;
     line-height: 1.5;
     box-sizing: border-box;
 }
@@ -24,6 +24,7 @@ html, body {
 img {
     opacity: 0.8;
 }
+
 .navbar-brand img {
     position: relative;
    
@@ -74,7 +75,9 @@ img {
 .nav-item, .nav-link {
     align-items: stretch;
     padding-right: 50px;
-    font-size: large;
+    font-size: 20px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
 }
 
 .navbar-nav, .nav-link {
@@ -91,45 +94,83 @@ img {
 
 /* -------- About Us ------ */
 
+.about {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgba(0, 48, 73, 0.9);
+}
+
+.text-start {
+    letter-spacing: 2px;
+    color: rgba(0, 48, 73, 0.9);
+}
+
+.text-end {
+    color: rgba(0, 48, 73, 0.9);
+    letter-spacing: 2px;
+}
+
 .about img {
     display: flex;
     flex-wrap: nowrap;
     max-width: 100%;
     overflow: hidden;
     margin-bottom: 5px;
-
+    border-radius: 48%;
 }
 
+.size-1 {
+    font-size: 1.8rem;
+}
+
+.size-2 {
+    font-size: 2.2rem;
+}
+
+.size-3 {
+    font-size: 2.8rem;
+}
 
 #past {
     margin: auto;
     margin-top: 10px;
     padding: 5px 8px;
-    background-color: rgba(0, 48, 73, 0.4);
+    /* background-color: rgba(0, 48, 73, 0.6);  */
     text-align: center;
+    line-height: 30px;
 }
 
 #present {
     margin: auto;
     padding: 5px 8px;
-    background-color: rgba(0, 48, 73, 0.4);
+    /* background-color: rgba(0, 48, 73, 0.6);  */
     text-align: center;
+    line-height: 30px;
 }
 
 #present p {
-     color: rgb(14, 1, 1);
-    font-size: 1.3rem;
+    color: rgb(14, 1, 1);
+    font-size: 1.1rem;
     word-spacing: 1px;
     font-weight: 400;
+    color: black;
 }
 
 #past p {
     color: rgb(14, 1, 1);
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     word-spacing: 1px;
     font-weight: 400;
 }
 
+ /* ------ Card ------- */
+
+.test-title {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgba(0, 48, 73, 0.9);
+    margin: 20px 0px;
+}
 
 .card {
     margin-bottom: 30px;
@@ -145,6 +186,7 @@ img {
 p.card-text {
     color: #fff;
     font-weight: 300;
+    font-size: 1.1rem;
 }
 
 img.card-img-top {
@@ -154,7 +196,7 @@ img.card-img-top {
     margin: 0 auto;
     padding: 0;
     border-radius: 50%;
-    margin-top: 10px;
+    margin-top: 5px;
     border: 3px solid darkgray;
 }
 
