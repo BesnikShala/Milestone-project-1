@@ -250,6 +250,22 @@ img.card-img-top {
 
 /* -------Service One--------- */
 
+.links {
+    text-decoration: none;
+}
+
+.quote-btn {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(0, 48, 73, 0.7);
+}
+
+.quote-btn:hover {
+    text-decoration: none;
+    color: white;
+    background-color: rgba(216, 45, 45, 0.7);
+}
+
 .carousel-inner img {
     height: 400px;
     width: 1000px;
