@@ -177,6 +177,7 @@ html, body {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: rgba(0, 48, 73, 0.9);
+    margin: 50px 0px;
 }
 
 .card {
@@ -267,8 +268,8 @@ img.card-img-top {
 }
 
 .carousel-inner img {
-    height: 400px;
-    width: 1000px;
+    height: 100%;
+    width: 100%;
 }
 
 .services {
@@ -303,6 +304,7 @@ img.card-img-top {
     z-index: 5;
     margin: auto;
     font-size: 1rem;
+    padding: 0px 25px;
 }
 
 .wrap-info {
@@ -317,6 +319,7 @@ img.card-img-top {
     z-index: 5;
     margin: auto;
     font-size: 1rem;
+    padding: 0px 25px;
 }
 
 .carousel-two {
@@ -343,11 +346,13 @@ img.card-img-top {
     margin: 0px 5px;
 }
 
+.hvr-fade {
+    z-index: 99;
+}
+
 /* -------Modal--------- */
 
 .modal img {
-  /* width: 700px;
-  height: 500px; */
   overflow: hidden;
 }
 
@@ -422,9 +427,10 @@ iframe {
 }
 
 .contact a i {
-    font-size: 35px;
+    font-size: 50px;
     position: relative;
     bottom: 20px;
+    color: rgba(0, 48, 73, 0.9);
 }
 
 /* ------ Footer ------ */
