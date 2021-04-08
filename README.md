@@ -63,9 +63,11 @@ have the ability to use the navbar.
 
 - The site will also include a full gallary page where previous work can be viewed. 
 
+- A modal implemented in the gallary to allow users to enlarge the images and also view text information for that image.
+
 ## Features Left to Implement
 
-- A modal will be implemented in the gallary to allow users to enlarge the images and also view text information for that image.
+- 
 
 ## Technologies Used
 
