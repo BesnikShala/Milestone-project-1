@@ -178,6 +178,14 @@ html, body {
     letter-spacing: 2px;
     color: rgba(0, 48, 73, 0.9);
     margin: 50px 0px;
+    text-decoration: 4px red solid overline;
+}
+
+.sub-title-two {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgba(0, 48, 73, 0.9);
+    margin: 50px 0px;
 }
 
 .card {
@@ -217,37 +225,6 @@ img.card-img-top {
     color: #fff;
 }
 
-#jack-quote {
-    animation: quote;
-    animation-duration: 2.5s;
-    animation-fill-mode: backwards;
-}
-
-@keyframes quote {
-    0%   {left: -1200px}
-    100% {left: 0px}
-}
-
-#lara-quote {
-    animation: quote-2;
-    animation-duration: 2.5s;
-    animation-fill-mode: backwards;
-}
-
-@keyframes quote-2 {
-    0%   {bottom: -800px}
-    100% {bottom: 0px}
-}
-
-#james-quote {
-    animation: quote-3;
-    animation-duration: 2.5s;
-}
-
-@keyframes quote-3 {
-    0%   {right: -800px}
-    100% {right: 0px}
-}
 
 /* -------Service One--------- */
 
@@ -336,7 +313,7 @@ img.card-img-top {
     overflow: hidden;
     display: flex;
     justify-content: space-between;
-    
+    margin: 50px;
 }
 
 .gallery-images div img {
@@ -372,23 +349,21 @@ p.modal-caption {
 
 .btn-close {
     background-color: white;
-    /* position: absolute;
-    left: 50px; */
 
 }
 
 /* -------Contact--------- */
 
-form {
-    padding: 40px;
-    overflow: hidden;
-    max-width: 1300px;
-    justify-content: center;
-    margin-left: 50px;
+.contact-p {
+    font-size: 25px;
 }
 
-body > form {
-    margin-right: 0px !important;
+#myForm {
+    padding: 40px;
+    overflow: hidden;
+    max-width: 1500px;
+    margin: 0 auto;
+    letter-spacing: 1px;
 }
 
 form input {

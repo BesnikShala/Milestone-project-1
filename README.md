@@ -65,6 +65,8 @@ have the ability to use the navbar.
 
 - A modal implemented in the gallary to allow users to enlarge the images and also view text information for that image.
 
+- Flowing feature on scroll. Using AOS CDN as the user scrolls through the site the content animates fading in from the sides. 
+
 ## Features Left to Implement
 
 - 
@@ -81,6 +83,9 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - [Hover.css](http://ianlunn.github.io/Hover/)
     - I came accross Hover.css in a previous module and I included this because you have the ablity to view each effect before you use it. The application is very quick and easy and the results are great. (Credit Ian Lunn)
+
+- [AOS Animate on Scroll](https://github.com/michalsnik/aos)
+    - I came accross this feature on many websites. My mentor also showed me an example website which included this feature. I decided to use this feature as it adds flow to the website especially when scrolling through content. 
 
 - [Google Fonts](https://fonts.google.com/)
     - I chose to use Google Fonts for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 

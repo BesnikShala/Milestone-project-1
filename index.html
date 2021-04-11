@@ -9,6 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover.css" />
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
     <link rel="stylesheet" href="assets/style.css">
     <title>Prestige Automotive | Bringing you the best automotive service</title>
 </head>
@@ -73,10 +74,10 @@
                 </div>
             </div>
             <hr>
-            <div class="row">
+            <div class="row" data-aos="fade-left" data-aos-duration="1000">
                 <h3 class="text-end order-sm-1"><span class="size-1">Where</span><span class="size-2"> We Are</span> <span
                         class="size-3">Now . . .</span></h3>
-                <div class="col-md col-sm-12 order-sm-3 order-md-1" id="present">
+                <div class="col-md col-sm-12 order-sm-3 order-md-1" id="present" data-aos="fade-right" data-aos-duration="7000">
                     <p>
                         We have come a long way since our humble beginnings. We have a 5000sq feet unit which houses our
                         three
@@ -97,23 +98,23 @@
     
     <div class="container">
         <div class="row">
-            <h1 class="text-center title">Testimonials</h1>
-            <div class="col-sm">
-                <div class="card border border-4" id="jack-quote">
+            <h1 class="text-center title" data-aos="fade-down" data-aos-duration="1000">Testimonials</h1>
+            <div class="col-sm" data-aos="fade-right" data-aos-duration="1000">
+                <div class="card border border-4">
                     <img src="./assets/images/mustang.jpg" class="card-img-top" alt="A green car">
                     <div class="card-body text-center">
                         <p><i class="fas fa-quote-left"></i></p>
                         <hr>
                         <p class="card-text">I was recommened by a friend to check out PA as I was looking to change the
                             colour on my car. The amazing team at PA helped me through the pricing and the results are
-                            amazing! definitely recommend them to anyone!
+                            amazing! 
                         </p>
                         <h5 class="card-title text-center">Jack B</h5>
                     </div>
                 </div>
             </div>
-            <div class="col-sm">
-                <div class="card border border-4" id="lara-quote">
+            <div class="col-sm" data-aos="fade-up" data-aos-duration="1000">
+                <div class="card border border-4">
                     <img src="./assets/images/interior-detail.jpg" class="card-img-top car-lara" alt="A blue car">
                     <div class="card-body text-center">
                         <p><i class="fas fa-quote-left"></i></p>
@@ -125,8 +126,8 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm">
-                <div class="card border border-4" id="james-quote">
+            <div class="col-sm" data-aos="fade-left" data-aos-duration="1000">
+                <div class="card border border-4">
                     <img src="./assets/images/bentley-foam.jpg" class="card-img-top" alt="A blue car">
                     <div class="card-body text-center">
                         <p><i class="fas fa-quote-left"></i></p>
@@ -166,15 +167,15 @@
                     <hr>
                     <h3>Follow Us</h3>
                     <ul class="list-inline">
-                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="www.instagram.com"><i
+                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="https://www.instagram.com"><i
                                     class="fab fa-instagram"></i></a>
                         </li>
-                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="www.facebook.com"><i
+                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="https://www.facebook.com"><i
                                     class="fab fa-facebook"></i></a></li>
-                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="www.twitter.com"><i
+                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="https://www.twitter.com"><i
                                     class="fab fa-twitter-square"></i></a>
                         </li>
-                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="www.youtube.com"><i
+                        <li class="list-inline-item"><a class="hvr-float" target="_blank" href="https://www.youtube.com"><i
                                     class="fab fa-youtube-square"></i></a>
                         </li>
                     </ul>
@@ -187,6 +188,12 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <script>
+        AOS.init({
+            duration: 1000
+        });
+    </script>
 </body>
 
 </html>
