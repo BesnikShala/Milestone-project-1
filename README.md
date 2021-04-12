@@ -24,7 +24,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight. 
 
 
-        Returning Visitor Goals.
+        ## Returning Visitor Goals.
 
 -	I want to know if any new products or services have been added.
 -	I would like to see if the gallery has been updated with the latest projects/work.
@@ -42,6 +42,9 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want visitors to be able to browse through the different services available and select which one they need. Then through the form lead generator be able to submit their information and request for contact.
 -	I want visitors to feel like they want to come back to the website and use it regularly by including images of previous work/incentives of promotions for first time buyers and also promotions to loyalty and returning customers.
 
+        Design
+
+-   
 
 Link to be provided to mockups and wireframes HERE.
 
