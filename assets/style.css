@@ -9,6 +9,10 @@ html, body {
     box-sizing: border-box;
 }
 
+.overflow-control {
+    overflow: hidden;
+}
+
 /* ------- Navbar -------- */
 
 
@@ -399,6 +403,7 @@ iframe {
     border: 2px solid black;
     overflow: hidden;
     margin-bottom: 10px;
+    width: 100%;
 }
 
 .contact a i {
@@ -414,6 +419,7 @@ footer {
     max-height: 700px;
     background-color:rgba(0, 48, 73, 0.9);
     overflow: hidden;
+    letter-spacing: 2px;
 }
 
 .icons {
@@ -442,7 +448,7 @@ li {
 }
 
 .follow li a i {
-    font-size: 25px;
+    font-size: 35px;
     transition: all 0.5s ease-in-out;
 }
 
