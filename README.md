@@ -13,7 +13,7 @@
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-            First Time Visitor Goals.
+        First Time Visitor Goals.
 
 -	As a first-time visitor to the website. I want to understand the Website and what it offers. 
 -	I would like to be able to navigate clearly through the website to find exactly what I am looking for. 
@@ -24,7 +24,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight. 
 
 
-        ## Returning Visitor Goals.
+        Returning Visitor Goals.
 
 -	I want to know if any new products or services have been added.
 -	I would like to see if the gallery has been updated with the latest projects/work.
@@ -42,9 +42,21 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want visitors to be able to browse through the different services available and select which one they need. Then through the form lead generator be able to submit their information and request for contact.
 -	I want visitors to feel like they want to come back to the website and use it regularly by including images of previous work/incentives of promotions for first time buyers and also promotions to loyalty and returning customers.
 
+
         Design
 
--   
+- #### Colour Scheme
+    - The three main colours used throughout are red white and blue. These three simple colours were chosen to provide a simple and clean feel to the site.
+
+- #### Typography 
+    -    The Lato font is my main font which I chose to use throughout. I like how clean and simple this text looks, it is very readable and attractive. I used Sans Serif as my fallback font as this is one of the most common fonts.
+
+- #### Imagery 
+    - The imagery is key when trying to sell a service as the user needs to be able to see the end result. I chose professional imagery of the services being carried out to bring a sense of class to the brand image. The Gallery is also very key as this is 
+    somthing many people like to see when deciding if they would go ahead with the service. Mixing informative text with the imagery ina. form of a pop up modal was also key as a blank image on it's own does not appeal to many people. 
+
+        Wireframes
+-   Home Page Wireframe - [View]()
 
 Link to be provided to mockups and wireframes HERE.
 
