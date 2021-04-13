@@ -203,6 +203,7 @@ Browsers tests include Google Chrome and Safari.
 
 - After implementing AOS Animate on Scroll, there was an issue with overflow on section tags. On mobile view there would be a visible gap on the right hand side of the page. This was fixed by using a class to certain sections with overflow hidden. 
 
+- Image carousel caption on Mobile view clashing with service information. Image was at 100% width and height so at mobile view it became too small and caused a clash. Fixed by removing the height attributes.  
 
 ## Deployment
 
