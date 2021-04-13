@@ -38,7 +38,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	As the owner I want site visitors to be able to freely and comfortably navigate through the website and clearly find what they are looking for.
 -	I want the visitors to be able to reach out and ask for more information in any page via the form available for a quotation/more information.
 -	I want visitors to be able to browse through the different services available and select which one they need. Then through the form lead generator be able to submit their information and request for contact.
--	I want visitors to feel like they want to come back to the website and use it regularly by including images of previous work/incentives of promotions for first time buyers and also promotions to loyalty and returning customers.
+
 
 
 ## Design
@@ -134,6 +134,8 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## User Stories Testing
 
+#### First Time Visitor
+
 -	As a first-time visitor to the website. I want to understand the Website and what it offers. 
     - Viewing the home page, users can see the about us history of the business via a time line of where we began to where we are now. Users can cleary read the background of the business 
     and also what it offers. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-testing.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-mobile.png)
@@ -157,6 +159,36 @@ In this section, you should mention all of the languages, frameworks, libraries,
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
     - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
     option to either email or call with any questions or if they would like to send a quotation request they can do so via the form.  [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop1.png) - [Desktop Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop2.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-mobile1.png) - [Mobile Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-mobile2.png) 
+
+#### Returning Visitor 
+
+-	I want to know if any new products or services have been added.
+    - Returning visitors will be able to see the 'NEW' badge on any new services or content that is added. 
+
+-	I would like to see if the gallery has been updated with the latest projects/work.
+    - The galley can be easily extended with more content.
+
+-	I would like to know if there are any loyalty schemes for regular users/buyers.
+
+-	I want to know if I can get in contact to proceed with a quotation/service. 
+    - Contact details are available at the contact us page to get in touch with a member of the team.
+
+-	As a car enthusiast I want to know what the best service is to maintain or modify my car.
+    - The information written on the services explains how the service benefits the user and their vehicle. 
+
+#### Site Owner 
+
+-	As the owner I want site visitors to be able to freely and comfortably navigate through the website and clearly find what they are looking for.
+    - I have made the layout simplistic and easy to read so navigation is easy and information is not too cluttered. Visitors seeking quick important information are able to. 
+
+-	I want the visitors to be able to reach out and ask for more information in any page via the form available for a quotation/more information.
+    - I have included button link to direct visitors directly to the contact us page if they need to ask a quick question or if they would like a quotation. 
+
+-	I want visitors to be able to browse through the different services available and select which one they need. Then through the form lead generator be able to submit their information and request for contact.
+    - The services are directly linked to the contact page via a responsive button link. 
+
+
+
 
 ## Functionality Testing
 
