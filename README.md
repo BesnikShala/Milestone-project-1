@@ -122,7 +122,16 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 [W3C HTML Validator](https://validator.w3.org/) To validate HTML code.
 
-- One error found on line 150 and immediately fixed. Left over attribute which was only partially deleted.
+- One error found for index.html on line 150 and immediately fixed. Left over attribute which was only partially deleted.
+
+- multiple errors for services.html due to aria-labelledby not matching id name. This issue was fixed by matching the id's to the aria-labelledby.
+
+- One error on contact.html, used a paragraph tag within a span. Fixed by changing span to a div. 
+
+[W3C CSS Validator](https://jigsaw.w3.org/css-validator/) To validate HTML code.
+
+- One error in code. Text decoration had a specified size in px before the colour and style. Fixed by specifying text-decoration-thickness. 
+
 
 ## Deployment
 

@@ -182,7 +182,8 @@ html, body {
     letter-spacing: 2px;
     color: rgba(0, 48, 73, 0.9);
     margin: 50px 0px;
-    text-decoration: 4px red solid overline;
+    text-decoration: red solid overline;
+    text-decoration-thickness: 4px;
 }
 
 .sub-title-two {
