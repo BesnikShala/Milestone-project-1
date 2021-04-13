@@ -47,7 +47,6 @@ html, body {
 }
 
 .navbar-toggler {
-    background-color: none;
     color: rgba(0, 48, 73, 0.9);
     border-radius: 80%;
     height: 50px;

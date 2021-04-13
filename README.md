@@ -21,7 +21,6 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want to see the different services available and clearly understand which one is best for me. 
 -	I would like to know indicative pricing to see if these services are something within budget. 
 -	I would like as a first-time user to be able to see clear images of the previous work carried out and also provide social media links where this can be viewed at a third-party perspective. 
--	I want to know if there are any first-time buyer offers available.
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight. 
 
 
@@ -75,7 +74,7 @@ have the ability to use the navbar.
 
 - The brand image/name has a link to the home page so users can eaily return to the main page of the website at any moment. 
 
-- The footer contains information about the business but also links to social media accoounts, this is on all pages so users can follow on social media. 
+- The footer contains information about the business but also links to social media accounts, this is on all pages so users can follow on social media. 
 
 - The navigation bar has clear and indicative sign of which page you are currently on. Screen readers will also know which page they are currently on. 
 
@@ -132,6 +131,31 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - One error in code. Text decoration had a specified size in px before the colour and style. Fixed by specifying text-decoration-thickness. 
 
+## User Stories Testing
+
+-	As a first-time visitor to the website. I want to understand the Website and what it offers. 
+    - Viewing the home page, users can see the about us history of the business via a time line of where we began to where we are now. Users can cleary read the background of the business 
+    and also what it offers. [Desktop Screenshot]() - [Mobile Screenshot]()
+
+-	I would like to be able to navigate clearly through the website to find exactly what I am looking for.
+    - As a first time user the navigation bar is clear and easy to navigate. The text is sized well and spaced out. The responsive hover effect shows a red line from center when the mouse pointer is hovering over it.
+    The current page is also highlighted in the same red colour to show the user the current page they are on. [Desktop Screenshot]() - [Mobile Screenshot]() 
+
+-	I want to see the different services available and clearly understand which one is best for me.
+    - The services are split into three sections with an AOS effect where they come together. There is informative text both in the textbox and the image carousel. The user can see each service and very 
+    easily understand what is being offered and make a choice based on their needs. [Desktop Screenshot]() - [Mobile Screenshot]()
+
+-	I would like to know indicative pricing to see if these services are something within budget.
+    The user can view the services image carousel to understand the services but also to get an idea of starting costs. They can then make a judgement if the cost is within budget, they have the option to click 
+    on the responsive request a quotation button.  [Desktop Screenshot]() - [Mobile Screenshot]() 
+
+-	I would like as a first-time user to be able to see clear images of the previous work carried out and also provide social media links where this can be viewed at a third-party perspective. 
+    - The gallery also has an AOS feature where images fade into the screen on scroll. A responsive highlight border is presented as a user hovers with the mouse pointer. If the image is not clear the user can 
+    click to enlarge the image via a modal. Here they can then view and read information regarding the service in the image. [Desktop Screenshot]() - [Desktop Screenshot2]() - [Mobile Screenshot]() - [Mobile Screenshot2]()
+
+-	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
+    - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
+    option to either email or call with any questions or if they would like to send a quotation request they can do so via the form.  [Desktop Screenshot]() - [Mobile Screenshot]() 
 
 ## Deployment
 
