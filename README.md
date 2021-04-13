@@ -189,6 +189,10 @@ have the ability to use the navbar.
 -	I want visitors to be able to browse through the different services available and select which one they need. Then through the form lead generator be able to submit their information and request for contact.
     - The services are directly linked to the contact page via a responsive button link. 
 
+#### responsiveness
+
+The site is responsive on all devices desktop, tablet and mobile. As wireframe design the content is reconfigured at different media sizes. This can be clearly seen on the screenshots via testing.  
+
 ## Functionality Testing
 
 - I used Lighthouse on [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) for responsiveness stylign and functinality. I got high 90's scroes for the desktop view. The moile view performance and best practices was in the 80's due to social media links being deemed unsafe (the links used to social media e.g Facebook). The performance was hindered on mobile view due to the sizes of the images. 
@@ -198,6 +202,14 @@ have the ability to use the navbar.
 The website has been tested on both desk top and various virtual simulations of devices ranging from mobile phones to laptops and tablets via Chrome Developer Tools. No bugs or errors found.  
 
 Browsers tests include Google Chrome and Safari. 
+
+Website tested on real devices. 
+
+- Tested on Macbook pro 
+    - on google Chrome and Safari no issues found. 
+
+- Tested on Samsung Gallaxy S20+ , Iphone X, Samsung S10+
+    - issue with overlapping text on carousel caption with service information. Fixed by changing the sizing of the images. 
 
 ## Known Bugs and Problems Incurred
 
