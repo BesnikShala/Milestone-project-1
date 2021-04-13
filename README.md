@@ -162,6 +162,15 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 - I used Lighthouse on [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) for responsiveness stylign and functinality. I got high 90's scroes for the desktop view. The moile view performance and best practices was in the 80's due to social media links being deemed unsafe (the links used to social media e.g Facebook). The performance was hindered on mobile view due to the sizes of the images. 
 
+## Compatability Testing
+
+The website has been tested on both desk top and various virtual simulations of devices ranging from mobile phones to laptops and tablets via Chrome Developer Tools. No bugs or errors found.  
+
+Browsers tests include Google Chrome and Safari. 
+
+
+
+
 ## Deployment
 
 
@@ -196,7 +205,7 @@ Most of the content is written by me. I have used the following CDN's however mo
 
 [Font Awesome](https://fontawesome.com/)
 
-- All icons used are directly from Font Awesome.com
+- All icons used are directly from Font Awesome.com.
 
 ## Acknowledgements
 
