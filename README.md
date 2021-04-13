@@ -109,7 +109,7 @@ have the ability to use the navbar.
     - I came accross **Hover.css** in a previous module and I included this because you have the ablity to view each effect before you use it. The application is very quick and easy and the results are great. (Credit Ian Lunn)
 
 - [AOS Animate on Scroll](https://github.com/michalsnik/aos)
-    - I came accross this feature on many websites. My mentor also showed me an example website which included this feature. I decided to use this feature as it adds flow to the website especially when scrolling through content. 
+    - I came accross this feature on many websites, my mentor also showed me an example website which included this feature. I decided to use this feature as it adds flow to the website when scrolling through content. 
 
 - [Google Fonts](https://fonts.google.com/)
     - I chose to use **Google Fonts** for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 
@@ -189,7 +189,6 @@ have the ability to use the navbar.
 -	I want visitors to be able to browse through the different services available and select which one they need. Then through the form lead generator be able to submit their information and request for contact.
     - The services are directly linked to the contact page via a responsive button link. 
 
-
 ## Functionality Testing
 
 - I used Lighthouse on [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) for responsiveness stylign and functinality. I got high 90's scroes for the desktop view. The moile view performance and best practices was in the 80's due to social media links being deemed unsafe (the links used to social media e.g Facebook). The performance was hindered on mobile view due to the sizes of the images. 
@@ -199,6 +198,10 @@ have the ability to use the navbar.
 The website has been tested on both desk top and various virtual simulations of devices ranging from mobile phones to laptops and tablets via Chrome Developer Tools. No bugs or errors found.  
 
 Browsers tests include Google Chrome and Safari. 
+
+## Known Bugs and Problems Incurred
+
+- After implementing AOS Animate on Scroll, there was an issue with overflow on section tags. On mobile view there would be a visible gap on the right hand side of the page. This was fixed by using a class to certain sections with overflow hidden. 
 
 
 ## Deployment
@@ -239,7 +242,7 @@ Most of the content is written by me. I have used the following CDN's however mo
 
 - [Balsamiq](https://balsamiq.com/)
 
-    - Wireframes created using Balsamiq.
+- Wireframes created using Balsamiq.
 
 ## Acknowledgements
 
