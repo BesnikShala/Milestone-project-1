@@ -207,7 +207,29 @@ Browsers tests include Google Chrome and Safari.
 
 ## Deployment
 
+### GitHub Pages
 
+This project was deployed via GitHub Pages, please see the following steps. 
+
+- Firstly log into GitHub and locate the GitHub Repository.
+
+- Under the repository navbar there is a navlink on the right hand side called **'Settings'** click on this to access more options.
+
+- on the left hand side you will see more navigation links. You need to click on the second to last tab which is named 'Pages'. 
+
+- once you have clicked on Pages, you will be directed to GitHub Pages. here you can see the 'Source" which is set to 'None'. Click and choose 'Branch: master'.
+
+- The folder should automatically come up as /(root), once this is done you can click on save and the site will be published. 
+
+- Either click on the link provided or copy and paste it into the browser to take you to the site. If you run into any issues please make sure you have one of your pages name index.html. 
+
+Any changes made to the site that are pushed to GitHub will be automatically changed. You may need to refresh your browser cache if changes do not display. 
+
+### GitHub Clone
+
+To Clone this project you can do so via the GitHub Repository. Next to the green Gitpod button there is a **'Code'** button, click on this to provide you with the site 'URL' which you can copy. 
+
+You can then paste the url into the editor with the following command **git clone**. e.g git clone https://github.com/BesnikShala/Milestone-project-1.git.  
 
 # Credits
 
