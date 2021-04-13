@@ -135,19 +135,19 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 -	As a first-time visitor to the website. I want to understand the Website and what it offers. 
     - Viewing the home page, users can see the about us history of the business via a time line of where we began to where we are now. Users can cleary read the background of the business 
-    and also what it offers. [Desktop Screenshot]() - [Mobile Screenshot]()
+    and also what it offers. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-testing.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-mobile.png)
 
 -	I would like to be able to navigate clearly through the website to find exactly what I am looking for.
     - As a first time user the navigation bar is clear and easy to navigate. The text is sized well and spaced out. The responsive hover effect shows a red line from center when the mouse pointer is hovering over it.
-    The current page is also highlighted in the same red colour to show the user the current page they are on. [Desktop Screenshot]() - [Mobile Screenshot]() 
+    The current page is also highlighted in the same red colour to show the user the current page they are on. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/second-ux-testing-desktop.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/second-ux-testing-mobile.png) 
 
 -	I want to see the different services available and clearly understand which one is best for me.
     - The services are split into three sections with an AOS effect where they come together. There is informative text both in the textbox and the image carousel. The user can see each service and very 
-    easily understand what is being offered and make a choice based on their needs. [Desktop Screenshot]() - [Mobile Screenshot]()
+    easily understand what is being offered and make a choice based on their needs. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-desktop.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png)
 
 -	I would like to know indicative pricing to see if these services are something within budget.
     The user can view the services image carousel to understand the services but also to get an idea of starting costs. They can then make a judgement if the cost is within budget, they have the option to click 
-    on the responsive request a quotation button.  [Desktop Screenshot]() - [Mobile Screenshot]() 
+    on the responsive request a quotation button.  [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-desktop.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png) 
 
 -	I would like as a first-time user to be able to see clear images of the previous work carried out and also provide social media links where this can be viewed at a third-party perspective. 
     - The gallery also has an AOS feature where images fade into the screen on scroll. A responsive highlight border is presented as a user hovers with the mouse pointer. If the image is not clear the user can 
