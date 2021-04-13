@@ -14,7 +14,7 @@
  
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
-        First Time Visitor Goals.
+## First Time Visitor Goals.
 
 -	As a first-time visitor to the website. I want to understand the Website and what it offers. 
 -	I would like to be able to navigate clearly through the website to find exactly what I am looking for. 
@@ -24,7 +24,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight. 
 
 
-        Returning Visitor Goals.
+## Returning Visitor Goals.
 
 -	I want to know if any new products or services have been added.
 -	I would like to see if the gallery has been updated with the latest projects/work.
@@ -33,7 +33,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	As a car enthusiast I want to know what the best service is to maintain or modify my car.
 
     
-        Site Owners Goals.
+## Site Owners Goals.
 
 -	As the owner I want site visitors to be able to freely and comfortably navigate through the website and clearly find what they are looking for.
 -	I want the visitors to be able to reach out and ask for more information in any page via the form available for a quotation/more information.
@@ -41,7 +41,7 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want visitors to feel like they want to come back to the website and use it regularly by including images of previous work/incentives of promotions for first time buyers and also promotions to loyalty and returning customers.
 
 
-        Design
+## Design
 
 - #### Colour Scheme
     - The three main colours used throughout are red white and blue. These three simple colours were chosen to provide a simple and clean feel to the site.
