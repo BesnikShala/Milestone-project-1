@@ -1,4 +1,5 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+
+<img src="./assets/images/logo.jpg">
 
 # Prestige Automotive | Milestone Project 1
 
@@ -32,8 +33,6 @@ Use this section to provide insight into your UX process, focusing on who this w
 -	I want to know if I can get in contact to proceed with a quotation/service. 
 -	As a car enthusiast I want to know what the best service is to maintain or modify my car.
 
-
-
     
         Site Owners Goals.
 
@@ -55,10 +54,18 @@ Use this section to provide insight into your UX process, focusing on who this w
     - The imagery is key when trying to sell a service as the user needs to be able to see the end result. I chose professional imagery of the services being carried out to bring a sense of class to the brand image. The Gallery is also very key as this is 
     somthing many people like to see when deciding if they would go ahead with the service. Mixing informative text with the imagery ina. form of a pop up modal was also key as a blank image on it's own does not appeal to many people. 
 
-        Wireframes
--   Home Page Wireframe - [View]()
+- #### Wireframes 
+    
+    Here you can see the wireframe versions at desktop, tablet and mobile device. (Please scroll right to view mobile wireframe)
 
-Link to be provided to mockups and wireframes HERE.
+    - [Home Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/home-page-about.png)
+
+    - [Services Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/services-page.png)
+
+    - [Gallery Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/gallery-page.png)
+
+    - [Contact Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/contact-page.png)
+
 
 # Features
 
@@ -111,7 +118,11 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 # Testing
 
+## Code Validation
 
+[W3C HTML Validator](https://validator.w3.org/) To validate HTML code.
+
+- One error found on line 150 and immediately fixed. Left over attribute which was only partially deleted.
 
 ## Deployment
 
