@@ -170,6 +170,15 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 ## Content
 
+Most of the content is written by me. I have used the following CDN's however most of the code taken includes my own input in styling and functionality.
+
+- Bootstrap.
+
+- Hover:CSS.
+
+- AOS Animate on Scroll.
+
+- Font Awesome.
 
 ## Media
 
@@ -180,6 +189,14 @@ In this section, you should mention all of the languages, frameworks, libraries,
 [Pexels](https://www.pexels.com/)
 
 - Gallery images used in this site were obtained from pexels.com. 
+
+[FreeLogo Design](https://www.freelogodesign.org/)
+
+- Company logo sourced from freelogodesign.org.
+
+[Font Awesome](https://fontawesome.com/)
+
+- All icons used are directly from Font Awesome.com
 
 ## Acknowledgements
 
