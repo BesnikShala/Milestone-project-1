@@ -69,7 +69,8 @@ Use this section to provide insight into your UX process, focusing on who this w
 # Features
 
 ### Existing Features
-- Feature 1 - The home page will have an interactive navbar which allows the user to be able to navigate through the website easily. It will be a sticky navbar so no matter how far down the page they go the user can always
+
+- The home page will have an interactive navbar which allows the user to be able to navigate through the website easily. It will be a sticky navbar so no matter how far down the page they go the user can always
 have the ability to use the navbar. 
 
 - The brand image/name has a link to the home page so users can eaily return to the main page of the website at any moment. 
@@ -151,11 +152,15 @@ In this section, you should mention all of the languages, frameworks, libraries,
 
 -	I would like as a first-time user to be able to see clear images of the previous work carried out and also provide social media links where this can be viewed at a third-party perspective. 
     - The gallery also has an AOS feature where images fade into the screen on scroll. A responsive highlight border is presented as a user hovers with the mouse pointer. If the image is not clear the user can 
-    click to enlarge the image via a modal. Here they can then view and read information regarding the service in the image. [Desktop Screenshot]() - [Desktop Screenshot2]() - [Mobile Screenshot]() - [Mobile Screenshot2]()
+    click to enlarge the image via a modal. Here they can then view and read information regarding the service in the image. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-desktop1.png) - [Desktop Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing2.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob1.png) - [Mobile Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob2.png)
 
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
     - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
-    option to either email or call with any questions or if they would like to send a quotation request they can do so via the form.  [Desktop Screenshot]() - [Mobile Screenshot]() 
+    option to either email or call with any questions or if they would like to send a quotation request they can do so via the form.  [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop1.png) - [Desktop Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop2.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-mobile1.png) - [Mobile Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-mobile2.png) 
+
+## Functionality Testing
+
+- I used Lighthouse on [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) for responsiveness stylign and functinality. I got high 90's scroes for the desktop view. The moile view performance and best practices was in the 80's due to social media links being deemed unsafe (the links used to social media e.g Facebook). The performance was hindered on mobile view due to the sizes of the images. 
 
 ## Deployment
 
