@@ -248,11 +248,6 @@ img.card-img-top {
     background-color: rgba(216, 45, 45, 0.7);
 }
 
-.carousel-inner img {
-    height: 100%;
-    width: 100%;
-}
-
 .services {
     font-size: 1.1rem;
     padding: 30px;
