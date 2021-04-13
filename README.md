@@ -6,13 +6,11 @@
  The website aims to target car enthusiasts and owners who are looking to modify or better their precious vehicle. The website aims to provide three main services which target the look 
  and performance via a car wrapping service which consists of a material which is used to wrap over the car panels to change the colour and texture of the car. The second service consists
  of detailing which is a very focused form of cleaning the car both internally and externally. The third service is boost to the engines power, this is basically a computer chip which is coded
- specifically to the engine of the car to increasse the power output. The website will have a gallery to showcase the services and also provide a form of contact to make enquiries. 
+ specifically to the engine of the car to increase the power output. The website will have a gallery to showcase the services and also provide a form of contact to make enquiries. 
  The key aim is to attract more business by providing a showcase of services and also offering a method of enquiry which may be more convenient to clients via a form. 
 
  
 ## UX
- 
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ## First Time Visitor Goals.
 
@@ -83,9 +81,9 @@ have the ability to use the navbar.
 
 - The site will include a form which is designed to make enquiries on price or even ask a question. 
 
-- The site will also include a full gallary page where previous work can be viewed. 
+- The site will also include a full gallery page where previous work can be viewed. 
 
-- A modal implemented in the gallary to allow users to enlarge the images and also view text information for that image.
+- A modal implemented in the gallery to allow users to enlarge the images and also view text information for that image.
 
 - Flowing feature on scroll. Using AOS CDN as the user scrolls through the site the content animates fading in from the sides. 
 
@@ -93,24 +91,28 @@ have the ability to use the navbar.
 
 - 
 
-## Technologies Used
+## Technologies, Languages, Framesworks and Libraries Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+- [HTML](https://en.wikipedia.org/wiki/HTML)
+    - Core use for the structure of the website. 
+
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+    - Core use for the styling of the website.
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
 
 - [Bootstrap](https://getbootstrap.com/)
-    - Bootstrap was included in the website to provide a good structure and quick start to the website. I found it useful to get the shell of the documentation but ultimately styled it my own way. 
+    - **Bootstrap** was included in the website to provide a good structure and quick start to the website. I found it useful to get the shell of the documentation but ultimately styled it my own way. 
 
 - [Hover.css](http://ianlunn.github.io/Hover/)
-    - I came accross Hover.css in a previous module and I included this because you have the ablity to view each effect before you use it. The application is very quick and easy and the results are great. (Credit Ian Lunn)
+    - I came accross **Hover.css** in a previous module and I included this because you have the ablity to view each effect before you use it. The application is very quick and easy and the results are great. (Credit Ian Lunn)
 
 - [AOS Animate on Scroll](https://github.com/michalsnik/aos)
     - I came accross this feature on many websites. My mentor also showed me an example website which included this feature. I decided to use this feature as it adds flow to the website especially when scrolling through content. 
 
 - [Google Fonts](https://fonts.google.com/)
-    - I chose to use Google Fonts for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 
+    - I chose to use **Google Fonts** for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 
 
 - [Font Awesome](https://fontawesome.com/)
     - I came accross this also the previous modules istructed by senior product developer Matt Rudge. I included it in my website as the icons are very simple and easy to see, the code is also very easy to implement and style.
@@ -188,8 +190,6 @@ In this section, you should mention all of the languages, frameworks, libraries,
     - The services are directly linked to the contact page via a responsive button link. 
 
 
-
-
 ## Functionality Testing
 
 - I used Lighthouse on [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) for responsiveness stylign and functinality. I got high 90's scroes for the desktop view. The moile view performance and best practices was in the 80's due to social media links being deemed unsafe (the links used to social media e.g Facebook). The performance was hindered on mobile view due to the sizes of the images. 
@@ -199,8 +199,6 @@ In this section, you should mention all of the languages, frameworks, libraries,
 The website has been tested on both desk top and various virtual simulations of devices ranging from mobile phones to laptops and tablets via Chrome Developer Tools. No bugs or errors found.  
 
 Browsers tests include Google Chrome and Safari. 
-
-
 
 
 ## Deployment
@@ -239,6 +237,20 @@ Most of the content is written by me. I have used the following CDN's however mo
 
 - All icons used are directly from Font Awesome.com.
 
+- [Balsamiq](https://balsamiq.com/)
+
+    - Wireframes created using Balsamiq.
+
 ## Acknowledgements
+
+- Mentor Oluwafemi Medale
+    - For his helpful guidance from the sessions.
+
+- Code Institute isntructor Matt Rudge
+    - For his detailed tutorials thorughout the modules.
+
+- Slack Community
+    - For their help in finding solutions to every single problem. (highlight @anna_ci)
+
 
 
