@@ -10,8 +10,6 @@
  The key aim is to attract more business by providing a showcase of services and also offering a method of enquiry which may be more convenient to clients via a form. 
 
 <img src="./assets/images/mockup.png" alt="Mock up image of website on all device sizes">
-
-![]()
  
 ## UX
 
@@ -68,7 +66,7 @@
      
 
 # Features
-url
+
 ### Existing Features
 
 - The home page will have an interactive navbar which allows the user to be able to navigate through the website easily. It will be a sticky navbar so no matter how far down the page they go the user can always
@@ -136,9 +134,13 @@ have the ability to use the navbar.
 
 - One error on contact.html, used a paragraph tag within a span. Fixed by changing span to a div. 
 
+    - [HTML-Pass Test Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/htmlvalidator.png)
+
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) To validate HTML code.
 
 - One error in code. Text decoration had a specified size in px before the colour and style. Fixed by specifying text-decoration-thickness. 
+
+    - [CSS-Pass Test Screenshot]()
 
 ## User Stories Testing
 
@@ -182,7 +184,7 @@ have the ability to use the navbar.
 
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
     - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
-    option to either email or call with any questions or if they would like to send a quotation request they can do so via the form. 
+    option to either email or call with any questions or if they would like to send a quotation request they can do so via the form. **Note** The from has a pop with a message after sending form is for demonstration poruposes only. the form does not get sent as it has not Target or Method attributes. 
     - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop1.png" target="_blank">Desktop Screenshot</a> 
     - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop2.png" target="_blank">Desktop Screenshot 2</a>
     - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-mobile1.png" target="_blank">Mobile Screenshot</a>
