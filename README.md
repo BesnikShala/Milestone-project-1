@@ -1,5 +1,5 @@
 
-<img src="./assets/images/logo.jpg">
+<img src="./assets/images/logo.jpg" alt="Website company logo">
 
 # Prestige Automotive | Milestone Project 1
 
@@ -8,6 +8,8 @@
  of detailing which is a very focused form of cleaning the car both internally and externally. The third service is boost to the engines power, this is basically a computer chip which is coded
  specifically to the engine of the car to increase the power output. The website will have a gallery to showcase the services and also provide a form of contact to make enquiries. 
  The key aim is to attract more business by providing a showcase of services and also offering a method of enquiry which may be more convenient to clients via a form. 
+
+<img src="./assets/images/mockup.png" alt="Mock up image of website on all device sizes">
 
  
 ## UX
