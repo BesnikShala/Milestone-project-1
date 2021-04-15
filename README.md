@@ -11,6 +11,7 @@
 
 <img src="./assets/images/mockup.png" alt="Mock up image of website on all device sizes">
 
+![]()
  
 ## UX
 
@@ -57,17 +58,17 @@
     
     Here you can see the wireframe versions at desktop, tablet and mobile device. (Please scroll right to view mobile wireframe)
 
-    - [Home Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/home-page-about.png)
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/home-page-about.png" target="_blank">Home Wireframe</a>
 
-    - [Services Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/services-page.png)
+    -  <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/services-page.png" target="_blank">Services Wireframe</a>
+  
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/gallery-page.png" target="_blank">Gallery Wireframe</a>
 
-    - [Gallery Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/gallery-page.png)
-
-    - [Contact Wireframe](https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/contact-page.png)
-
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/wireframes/contact-page.png" target="_blank">Contact Wireframe</a>
+     
 
 # Features
-
+url
 ### Existing Features
 
 - The home page will have an interactive navbar which allows the user to be able to navigate through the website easily. It will be a sticky navbar so no matter how far down the page they go the user can always
@@ -100,6 +101,9 @@ have the ability to use the navbar.
 
 - [CSS](https://en.wikipedia.org/wiki/CSS)
     - Core use for the styling of the website.
+
+- [Javascript](https://en.wikipedia.org/wiki/JavaScript)
+    - Used to specify animation duration for AOS. This was used to prevent repetition and use of code for duration of animation on each section that uses AOS. 
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
@@ -141,24 +145,24 @@ have the ability to use the navbar.
 #### First Time Visitor
 
 -	As a first-time visitor to the website. I want to understand the Website and what it offers. 
-    - Viewing the home page, users can see the about us history of the business via a time line of where we began to where we are now. Users can cleary read the background of the business 
-    and also what it offers. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-testing.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-mobile.png)
+    - Viewing the home page, users can see the about us history of the business via a time line of where we began to where we are now. Users can cleary read the background of the business <a href="" target="_blank">Desktop Screenshot</a> <a href="" target="_blank">Mobile Screenshot</a>
+    and also what it offers. <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-testing.png" target="_blank">Desktop Screenshot</a> - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/first-user-story-mobile.png" target="_blank">Mobile Screenshot</a>
 
 -	I would like to be able to navigate clearly through the website to find exactly what I am looking for.
     - As a first time user the navigation bar is clear and easy to navigate. The text is sized well and spaced out. The responsive hover effect shows a red line from center when the mouse pointer is hovering over it.
-    The current page is also highlighted in the same red colour to show the user the current page they are on. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/second-ux-testing-desktop.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/second-ux-testing-mobile.png) 
+    The current page is also highlighted in the same red colour to show the user the current page they are on. <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/second-ux-testing-desktop.png" target="_blank">Desktop Screenshot</a> - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/second-ux-testing-mobile.png" target="_blank">Mobile Screenshot</a> 
 
 -	I want to see the different services available and clearly understand which one is best for me.
     - The services are split into three sections with an AOS effect where they come together. There is informative text both in the textbox and the image carousel. The user can see each service and very 
-    easily understand what is being offered and make a choice based on their needs. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-desktop.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png)
+    easily understand what is being offered and make a choice based on their needs. <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-desktop.png" target="_blank">Desktop Screenshot</a>  - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png" target="_blank">Mobile Screenshot</a>
 
 -	I would like to know indicative pricing to see if these services are something within budget.
     The user can view the services image carousel to understand the services but also to get an idea of starting costs. They can then make a judgement if the cost is within budget, they have the option to click 
-    on the responsive request a quotation button.  [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-desktop.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png) 
+    on the responsive request a quotation button.  <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-desktop.png" target="_blank">Desktop Screenshot</a> <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png" target="_blank">Mobile Screenshot</a> 
 
 -	I would like as a first-time user to be able to see clear images of the previous work carried out and also provide social media links where this can be viewed at a third-party perspective. 
     - The gallery also has an AOS feature where images fade into the screen on scroll. A responsive highlight border is presented as a user hovers with the mouse pointer. If the image is not clear the user can 
-    click to enlarge the image via a modal. Here they can then view and read information regarding the service in the image. [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-desktop1.png) - [Desktop Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing2.png) - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob1.png) - [Mobile Screenshot2](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob2.png)
+    click to enlarge the image via a modal. Here they can then view and read information regarding the service in the image. <a href="" target="_blank">Desktop Screenshot</a> <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-desktop1.png" target="_blank">Mobile Screenshot</a> - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing2.png">Desktop Screenshot2</a> - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob1.png" target="_blank">Mobile Screenshot</a> - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob2.png" target="_blank">Mobile Screenshot2</a> 
 
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
     - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
