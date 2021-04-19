@@ -138,9 +138,9 @@ have the ability to use the navbar.
 
 [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) To validate HTML code.
 
-- One error in code. Text decoration had a specified size in px before the colour and style. Fixed by specifying text-decoration-thickness. 
+- One error in code. Text decoration had a specified size in px before the colour and style. Fixed by removing size.
 
-    - [CSS-Pass Test Screenshot]()
+    - [CSS-Pass Test Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/css-validator.png)
 
 ## User Stories Testing
 
