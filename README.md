@@ -88,9 +88,6 @@ have the ability to use the navbar.
 
 - Flowing feature on scroll. Using AOS CDN as the user scrolls through the site the content animates fading in from the sides. 
 
-## Features Left to Implement
-
-- 
 
 ## Technologies, Languages, Frameworks and Libraries Used
 
@@ -201,6 +198,7 @@ have the ability to use the navbar.
     - The galley can be easily extended with more content.
 
 -	I would like to know if there are any loyalty schemes for regular users/buyers.
+    - This feature was not implemented. The idea was to provide a high level service which was clean and informative. Introducing alerts or offers would not have looked very good.  
 
 -	I want to know if I can get in contact to proceed with a quotation/service. 
     - Contact details are available at the contact us page to get in touch with a member of the team.
