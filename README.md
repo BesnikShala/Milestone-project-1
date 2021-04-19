@@ -225,11 +225,11 @@ The site is responsive on all devices desktop, tablet and mobile. As wireframe d
 
 - I used Lighthouse on [Chrome Developer Tools](https://developer.chrome.com/docs/devtools/) for responsiveness styling and functionality. 
 
-Lighthouse Scores:
+- Lighthouse Scores:
 
-[Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/Lighthouse-mobile.png)
+    - [Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/Lighthouse-mobile.png)
 
-[Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/lighthouse-desktop.png)
+    - [Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/lighthouse-desktop.png)
 
 ## Compatibility Testing
 
@@ -331,7 +331,7 @@ Most of the content is written by me. I have used the following CDN's however mo
     - For their help in finding solutions to every single problem. (highlight @anna_ci)
     - @karina (Karina Finegan) A huge help with creation of the 404 error page. (post pinned to #user-centric-frontend)
 
-Assistance and trouble shooting code:
+Assistance and troubleshooting code:
 
 - [W3cschools](https://www.w3schools.com/)
 
