@@ -329,6 +329,15 @@ Most of the content is written by me. I have used the following CDN's however mo
 
 - Slack Community
     - For their help in finding solutions to every single problem. (highlight @anna_ci)
+    - @karina (Karina Finegan) A huge help with creation of the 404 error page. (post pinned to #user-centric-frontend)
+
+Assistance and trouble shooting code:
+
+- [W3cschools](https://www.w3schools.com/)
+
+- [stack Overflow](https://stackoverflow.com/)
+
+- [MDN Web Docs Mozilla](https://developer.mozilla.org/en-US/)
 
 
 
