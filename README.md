@@ -119,7 +119,7 @@ have the ability to use the navbar.
     - I chose to use **Google Fonts** for all my text within the website. The reason being I am confident that this should not fail or any issues come from this imported font. 
 
 - [Font Awesome](https://fontawesome.com/)
-    - I came across this also the previous modules instructed by senior product developer Matt Rudge. I included it in my website as the icons are very simple and easy to see, the code is also very easy to implement and style.
+    - I came across font awesome on the previous modules instructed by senior product developer Matt Rudge. I included it in my website as the icons are very simple and easy to see, the code is also very easy to implement and style.
 
 
 # Testing
@@ -128,7 +128,7 @@ have the ability to use the navbar.
 
 [W3C HTML Validator](https://validator.w3.org/) To validate HTML code.
 
-- One error found for index.html on line 150 and immediately fixed. Left over attribute which was only partially deleted.
+- Left over attribute which was only partially deleted. One error found for index.html on line 150 and immediately fixed. 
 
 - multiple errors for services.html due to aria-labelledby not matching id name. This issue was fixed by matching the id's to the aria-labelledby.
 
@@ -184,7 +184,7 @@ have the ability to use the navbar.
 
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
     - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
-    option to either email or call with any questions or if they would like to send a quotation request, they can do so via the form. **Note** The form has a pop with a message after sending form is for demonstration purposes only. the form does not get sent as it has not Target or Method attributes. 
+    option to either email or call with any questions or if they would like to send a quotation request, they can do so via the form. **Note** The form has a pop with a message after sending form is for demonstration purposes only. The form does not get sent as it does not Target or Method attributes. 
     - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop1.png" target="_blank">Desktop Screenshot</a> 
     - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-desktop2.png" target="_blank">Desktop Screenshot 2</a>
     - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fifth-ux-testing-mobile1.png" target="_blank">Mobile Screenshot</a>
@@ -194,6 +194,8 @@ have the ability to use the navbar.
 
 -	I want to know if any new products or services have been added.
     - Returning visitors will be able to see the 'NEW' badge on any new services or content that is added. 
+
+        -  [Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/third-ux-testing-mobile.png)
 
 -	I would like to see if the gallery has been updated with the latest projects/work.
     - The galley can be easily extended with more content.
