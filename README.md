@@ -174,13 +174,13 @@ have the ability to use the navbar.
     - The gallery also has an AOS feature where images fade into the screen on scroll. A responsive highlight border is presented as a user hovers with the mouse pointer. If the image is not clear the user can 
     click to enlarge the image via a modal. Here they can then view and read information regarding the service in the image. 
 
- - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-desktop1.png" target="_blank">Desktop Screenshot</a> 
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-desktop1.png" target="_blank">Desktop Screenshot</a> 
 
- - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing2.png" target="_blank" >Desktop Screenshot 2</a> 
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing2.png" target="_blank" >Desktop Screenshot 2</a> 
  
- - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob1.png" target="_blank">Mobile Screenshot</a> 
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob1.png" target="_blank">Mobile Screenshot</a> 
  
- - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob2.png" target="_blank">Mobile Screenshot 2</a> 
+    - <a href="https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/fourth-ux-testing-mob2.png" target="_blank">Mobile Screenshot 2</a> 
 
 -	I want to be able to get in touch with a member of staff to make an enquiry on pricing if the service is dependent on further information/insight.
     - The user via navbar can go to the contact us page or be directly sent from the service page to the contact us page via the responsive request a quotation button on each of the three services. The user has the 
@@ -227,9 +227,9 @@ The site is responsive on all devices desktop, tablet and mobile. As wireframe d
 
 Lighthouse Scores:
 
-[Mobile]()
+[Mobile Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/Lighthouse-mobile.png)
 
-[Desktop]()
+[Desktop Screenshot](https://github.com/BesnikShala/Milestone-project-1/blob/master/assets/images/lighthouse-desktop.png)
 
 ## Compatibility Testing
 
