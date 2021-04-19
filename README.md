@@ -245,6 +245,8 @@ Website tested on real devices.
 
 - Image carousel caption on Mobile view clashing with service information. Image was at 100% width and height so at mobile view it became too small and caused a clash. Fixed by removing the height attributes.  
 
+- Further issue discovered on screens smaller than 400px wide. Wrap-caption and Carousel caption overlapping on Wrap services. Fixed using media Query for screens below width of 400px. 
+
 ## Deployment
 
 ### GitHub Pages
